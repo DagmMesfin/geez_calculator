@@ -1,16 +1,27 @@
-# geez_calculator
+# Geez Calculator
 
-A new Flutter project.
+Geez Calculator is a simple app that allows users to perform basic calculations using Geez numerals, an ancient Ethiopian script used for writing numbers. This app provides a fun and educational way to learn about Geez numerals while also performing simple arithmetic operations.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Convert Arabic numerals to Geez numerals
+- Perform addition, subtraction, multiplication, and division using Geez numerals
+- Learn about the history and significance of Geez numerals
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+1. Download the app from [UpToDown](https://com-geez-geezcalculator.en.uptodown.com/android) and open the Geez Calculator app on your device.
+2. Enter the numbers you want to calculate in Geez numerals or use the provided conversion tool to convert Arabic numerals to Geez numerals.
+3. Select the operation you want to perform (addition, subtraction, multiplication, or division).
+4. View the result in Geez numerals.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contribution
+
+We welcome contributions from the community to improve Geez Calculator. If you have any ideas for new features, bug fixes, or enhancements, please feel free to submit a pull request.
+
+## License
+
+Geez Calculator is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this app in accordance with the terms of the license.
+
+
+Thank you for using Geez Calculator!
